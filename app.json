@@ -1,8 +1,7 @@
 {
   "pages":[
     "pages/index/index",
-    "pages/logs/logs",
-    "pages/weather/weather"
+    "pages/video/video"
   ],
   "window":{
     "backgroundTextStyle":"light",
